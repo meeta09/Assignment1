@@ -11,5 +11,5 @@ Vecta Corporation
 San Diego, CA 92115  
 Tel. (800) 555-5555  
 
-#####_This is an assignment to create a HTML page for Vecta Corporation_
+##### _This is an assignment to create a HTML page for Vecta Corporation_
 
